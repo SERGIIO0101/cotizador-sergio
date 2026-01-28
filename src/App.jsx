@@ -2,7 +2,7 @@ import React, { useState, useMemo, useEffect } from 'react';
 import Ajustes from './Components/Ajustes';
 import Presupuesto from './Components/Presupuesto';
 import Historial from './Components/Historial';
-import { INITIAL_CONFIG } from './constants/pricing';
+import { INITIAL_CONFIG } from "./constants/pricing.jsx";
 
 /* =======================
    UTILIDADES PDF
